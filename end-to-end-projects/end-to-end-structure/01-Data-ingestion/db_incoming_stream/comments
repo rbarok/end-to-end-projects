@@ -1,0 +1,4 @@
+Both Databricks Auto Loader and Spark Structured Streaming share the same underlying engine, but they serve distinct purposes.
+
+Auto Loader is a specialized tool for file-based ingestion from cloud storage;
+while Spark Structured Streaming is the broader framework used for event-based streams like Kafka or Kinesis;
