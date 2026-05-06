@@ -1,6 +1,3 @@
-### Autonomous Data Intelligence Platform
-This project demonstrates a path towards production-grade, end-to-end data ecosystem. Mlflow for tracing, clear cost management strategy, in addition to multi agentic ai frameworks are paramount.
-
 #### 🏗️ Architecture Overview
 The system follows an enhanced Medallion Architecture:
 
@@ -14,7 +11,7 @@ The system follows an enhanced Medallion Architecture:
 
 ##### 1. Data Ingestion & Governance
 
-* Ingestion: Supports batch and streaming (e.g., Kafka, Flink, or Airbyte) to pull data from APIs, SQL databases, and logs; ideally Zerobus.
+* Ingestion: Supports batch and streaming (e.g., Kafka, Flink, or Airbyte) to pull data from APIs, SQL databases, and logs.
 * Governance: Implementation of Unity Catalog to manage data lineage, PII masking, and RBAC (Role-Based Access Control).
 
 ##### 2. Data Warehousing (Medallion Flow)
