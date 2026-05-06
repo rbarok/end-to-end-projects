@@ -1,0 +1,3 @@
+1) Use Databricks ai_parse_document if you are an enterprise user already on Databricks/Unity Catalog and need a simple, secure, and governed pipeline to parse documents into Delta tables for RAG.
+
+2) Use LlamaIndex if you want to build a RAG app quickly, specifically around heavy documents (PDFs, PPTs) and need optimized, high-performance retrieval with minimal code.
